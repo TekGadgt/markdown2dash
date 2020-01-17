@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "command-line-args": "^4.0.7",
-    "docset-generator": "^0.2.2",
+    "docset-generator": "0.3.0",
+    "package.json": "^2.0.1",
     "rimraf": "^2.6.2",
     "showdown": "^1.8.2",
     "showdown-highlight": "^1.0.2"
